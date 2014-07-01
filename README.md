@@ -1,0 +1,4 @@
+Ng-Icheck
+=========
+
+Ng-icheck
